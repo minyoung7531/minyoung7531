@@ -1,9 +1,0 @@
-import math
-
-print('-'*10,'pythagoras theory calculator','-'*10)
-a = int(input('What\'s your a?'))
-b = int(input('What\'s your b?'))
-
-print(math.sqrt(a**2+b**2))
-
-print('-'*50)
